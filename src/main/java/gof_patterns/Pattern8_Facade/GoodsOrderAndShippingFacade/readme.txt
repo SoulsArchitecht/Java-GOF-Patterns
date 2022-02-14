@@ -1,0 +1,1 @@
+https://springframework.guru/gang-of-four-design-patterns/facade-pattern/
