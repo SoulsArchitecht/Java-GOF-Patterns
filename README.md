@@ -1,3 +1,3 @@
 # Java-GOF-Patterns
-Popular GanfOfFours Patterns on Java
+Popular GangOfFours Patterns on Java
 with any samples
